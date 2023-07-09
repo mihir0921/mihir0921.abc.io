@@ -1,3 +1,4 @@
+
 title: Introduction to GitHub
 description: If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get you started using GitHub in less than an hour.
 template:
@@ -285,3 +286,4 @@ tags: [
   "Git","GitHub Pages","Branches","Commits","Pull Requests"
 ]
 video: "sz6zfrQpCQg"
+remote_theme: 
