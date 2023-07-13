@@ -3,16 +3,16 @@ description: Throughout my career, I have worked on diverse projects spanning we
              I am well-versed in multiple programming languages such as Python, JavaScript, and Java, and have experience with frameworks and 
              technologies like React, Node.js, and Django.
 
-# Theme settings 
+ 
 theme: jekyll-theme-cayman
 
-# Build settings
+
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-# GitHub Pages settings
+
 defaults:
   - scope:
       path: ""
@@ -21,7 +21,7 @@ defaults:
       layout: single
       author_profile: true
 
-# Social media profiles
+
 author:
   name: MIHIR PATEL
   bio: "Software Engineer | Web Developer"
