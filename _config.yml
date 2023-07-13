@@ -2,38 +2,6 @@ name: MIHIR PATEL
 description: Throughout my career, I have worked on diverse projects spanning web development, mobile applications, and software architecture. 
              I am well-versed in multiple programming languages such as Python, JavaScript, and Java, and have experience with frameworks and 
              technologies like React, Node.js, and Django.
-
- 
 theme: jekyll-theme-cayman
 
 
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-
-
-author:
-  name: MIHIR PATEL
-  bio: "Software Engineer | Web Developer"
-  location: Dallas, TX
-  email: mihirpatel5012@email.com
-  links:
-    - label: Portfolio
-      icon: fas fa-globe
-      url: https://mihir0921.github.io/mihir0921.abc.io/
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/mihir0921/mihir0921.abc.io
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      
