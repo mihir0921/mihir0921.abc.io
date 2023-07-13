@@ -1,21 +1,3 @@
-name: Mihir Patel
-description: Software Engineering Milestone
-
-# Theme settings
 theme: jekyll-theme-cayman
-
-# Build settings
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
-# GitHub Pages settings
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
